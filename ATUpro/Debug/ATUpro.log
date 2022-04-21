@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(24,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(25,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(114,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(121,21): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(132,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akko_\source\repos\ATUpro\ATUpro\main.cpp(139,21): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  ATUpro.vcxproj -> C:\Users\akko_\source\repos\ATUpro\Debug\ATUpro.exe
